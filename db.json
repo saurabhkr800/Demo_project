@@ -1,0 +1,59 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 125999999,
+      "comment": "ko",
+      "date": "2023-02-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "realme",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 5000000,
+      "comment": "good",
+      "date": "2023-02-20T18:30:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "sss",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 56,
+      "comment": "giid",
+      "date": "2023-02-19T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "lenovo",
+      "category": "Electronic",
+      "freshness": "Brand New",
+      "price": 40000,
+      "comment": "good product",
+      "date": "2023-02-27T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 400,
+      "comment": "good",
+      "date": "2023-02-20T18:30:00.000Z",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
